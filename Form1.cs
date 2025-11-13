@@ -7,7 +7,7 @@ namespace VoituresCRUD
 {
     public partial class Form1 : Form
     {
-        // --- Connection string (edit to match your PostgreSQL setup) ---
+        // --- editer le Password ---
         private readonly string chaineConnexion =
             "Host=localhost;Port=5432;Username=postgres;Password=root;Database=voiture";
 
